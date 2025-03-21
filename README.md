@@ -6,6 +6,13 @@
 🎮 Outside of coding, I’m a competitive Valorant gamer and a huge fan of space, science, and tech.<br/>
 📚 I’m currently studying Astronomical & Planetary Sciences at ASU — always learning, always exploring.<br/>
 
+## 🏅 Badges
+
+[![HTML Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88958036)](https://www.credential.net/74c31023-1dd8-4e86-8b18-7f1a518b3b50#acc.Tcz80Nfk)
+<br/>Earned through the Global Career Accelerator – HTML Badge  
+🡥 *Clicking the badge opens the verified credential in a new page.*
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romilgamingg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romil-patel-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/romilgamingg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Romil4139A) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ROMILGAMING) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romilpatel2007@gmail.com) 
 
