@@ -10,8 +10,23 @@
 
 [![HTML Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136728910)
 <br/>Earned through the Global Career Accelerator – HTML Badge  
-🡥 *Clicking the badge opens the verified credential in a new page.*
+🡥 *Clicking the badges opens the verified credential in a new page.*
 
+[![JavaScript Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/142435296)
+<br/>Earned through the Global Career Accelerator – JavaScript Badge  
+🡥 *Clicking the badges opens the verified credential in a new page.*
+
+[![Intercultural Skills Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/142918764)
+<br/>Earned through the Global Career Accelerator – Intercultural Skills Badge  
+🡥 *Clicking the badges opens the verified credential in a new page.*
+
+[![ASU Web Development Program Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/142704496)
+<br/>Earned through the Global Career Accelerator – ASU Web Development Program Certificate  
+🡥 *Clicking the badges opens the verified credential in a new page.*
+
+[![PS Project - Prototyping & Web Development Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/142922854)
+<br/>Earned through the Global Career Accelerator – PS Project - Prototyping & Web Development Certificate  
+🡥 *Clicking the badges opens the verified credential in a new page.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romilgamingg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romil-patel-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/romilgamingg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Romil4139A) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ROMILGAMING) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romilpatel2007@gmail.com) 
