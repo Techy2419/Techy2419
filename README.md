@@ -8,7 +8,7 @@
 
 ## 🏅 Badges
 
-[![HTML Badge]([https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88958036)](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136728910)
+[![HTML Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136728910)
 <br/>Earned through the Global Career Accelerator – HTML Badge  
 🡥 *Clicking the badge opens the verified credential in a new page.*
 
